@@ -4,7 +4,7 @@ public class Factorial
 	{	final int NUM_FACTS = 100;
 		for(int i = 0; i < NUM_FACTS; i++)
 			System.out.println( i + "! is " + factorial(i));
-	 System.out.println("Hai");
+	                System.out.println("Hai");
 	}
 	
 	public static int factorial(int n)
